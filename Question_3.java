@@ -81,7 +81,7 @@ class Checker{
 		{
 			return "Other exception";
 		}
-		return "Problem Solved";
+		return "Problem approved";
 	}
 }
 class ProblemException extends Exception
